@@ -1,0 +1,5 @@
+1. membuat database 
+- disini saya menggunakan mariadb untuk membuat databasenya
+2. membuat login default
+- artinya login pertama kali dilakukan sebelum project terhubung dengan database
+3. membuat form koneksi dinamis
